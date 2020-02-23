@@ -3,7 +3,7 @@
 // Date: 20200223
 // Description: Checking if three values create a right triangle.
 
-#include "drg-Triangle.h"
+#include "stdafx.h"
 #include <iostream>
 #include <iomanip>
 
